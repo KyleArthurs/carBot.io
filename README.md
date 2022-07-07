@@ -1,7 +1,7 @@
 # carBot.io
-An Arduino based bot that drives in the direction based on the input sent from the Serial Monitor, Of course I wrote it in C++ so you dont have to.
+An Arduino based bot that drives in the direction based on the input sent from the Serial Monitor, Of course I wrote it in C++ so you dont have to. The Bot connects to your Laptop, PC or phone using a bluetooth module that i could not include in the Circuit Diagram but can be seen in the video (red module)
 
-<h1>Circuit</h1>
+<h1>Circuit Diagram</h1>
 
 ![image](https://user-images.githubusercontent.com/104775954/177681678-00a4e55e-1877-4aa4-9368-580e07336252.png)
 
@@ -13,8 +13,16 @@ An Arduino based bot that drives in the direction based on the input sent from t
 <a href="https://www.ti.com/product/L293D"><li>L293D(Motor control chip)</li></a>
 <li>Bot chasis</li>
 <li>Wheels(2x)</li>
+<li>Breadboard</li>
+<li>Jumper Cables</li>
+<li>Bluetooth Module</li>
 <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/ref=sr_1_31?keywords=arduino+car&qid=1657164220&sr=8-31"><li>Full Kit available here(Arduino not Included)</li></a>
 </ul>  
+
+<h1>Test Video</h1>
+This video shows the car with a echo location sensor attacthed to avoid collisions, i couldn't find a video with more finess but at least you can see the car move.
+
+https://user-images.githubusercontent.com/104775954/177686940-351e04b7-3898-4514-b2b1-1ec670536ff1.mp4
 
 <h1>TinkerCad</h1>
 
