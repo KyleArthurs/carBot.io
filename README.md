@@ -7,12 +7,15 @@ An Arduino based bot that drives in the direction based on the input sent from t
 
 <h1>Parts List</h1>
 <ul>
-<li>Arduino</li> 
-<li>Motor(2x)</li>
-<li>L293D(Motor control chip)</li> 
+<li>Arduino</li> https://store.arduino.cc/collections/boards/products/arduino-uno-rev3
+<a href="https://www.amazon.com/Antrader-Motor-Shaft-Arduino-Smart/dp/B07DDC3ZBK/ref=sr_1_18?keywords=hobby+motors&qid=1657163669&sr=8-18"><li>Motor</li></a>
+<a href="https://www.ti.com/product/L293D"><li>L293D(Motor control chip)</li></a>
 <li>Bot chasis</li>
-<li>Wheels(2x)</li> 
-</ul>
+<a href=""><li>Wheels(2x)</li></a>
+</ul>  
+
+<a href=""><li></li></a>
+
 
 <h1>TinkerCad</h1>
 
