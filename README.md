@@ -10,6 +10,7 @@ An Arduino based bot that drives in the direction based on the input sent from t
 <a href="https://store.arduino.cc/collections/boards/products/arduino-uno-rev3"><li>Arduino UNO</li></a>
 <a href="https://www.amazon.com/Antrader-Motor-Shaft-Arduino-Smart/dp/B07DDC3ZBK/ref=sr_1_18?keywords=hobby+motors&qid=1657163669&sr=8-18"><li>Motor</li></a>
 <a href="https://www.ti.com/product/L293D"><li>L293D(Motor control chip)</li></a>
+<li>AA Battery(4x)</li>
 <li>Bot chasis</li>
 <li>Wheels(2x)</li>
 <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/ref=sr_1_31?keywords=arduino+car&qid=1657164220&sr=8-31"><li>Full Kit available here</li></a>
