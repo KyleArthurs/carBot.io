@@ -35,3 +35,11 @@ https://www.tinkercad.com/things/2noHVlqRNu9
 Created a motors library to remove the motor code from main file and make the code more high level.
 The motor code houses all motor functions and defenitions.
 </p>
+
+<h1>Road Map</h1>
+<ul>
+  <li>Create a motor library</li>
+  <li>Create a USART library</li>
+  <li>Create a millis library</li>
+  <li>3D model a chassis of bot</li> 
+</ul>
