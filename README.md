@@ -28,3 +28,10 @@ https://user-images.githubusercontent.com/104775954/177686940-351e04b7-3898-4514
 
 If you would Like to have a Tinker at the circuit itself click the link below:<br>
 https://www.tinkercad.com/things/2noHVlqRNu9
+
+<h1>Updates</h1>
+<h2>16/07/2022</h2>
+<p>
+Created a motors library to remove the motor code from main file and make the code more high level.
+The motor code houses all motor functions and defenitions.
+</p>
