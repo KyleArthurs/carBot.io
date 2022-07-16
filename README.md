@@ -38,7 +38,7 @@ The motor code houses all motor functions and defenitions.
 
 <h1>Road Map</h1>
 <ul>
-  <li>Create a motor library</li>
+  <li><s>Create a motor library</s></li>
   <li>Create a USART library</li>
   <li>Create a millis library</li>
   <li>3D model a chassis of bot</li> 
