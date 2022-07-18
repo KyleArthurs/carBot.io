@@ -27,7 +27,8 @@ https://user-images.githubusercontent.com/104775954/177686940-351e04b7-3898-4514
 <h1>TinkerCad</h1>
 
 If you would Like to have a Tinker at the circuit itself click the link below:<br>
-https://www.tinkercad.com/things/2noHVlqRNu9
+https://www.tinkercad.com/things/2noHVlqRNu9 <br>
+Note: the TinkerCad edition uses the original version of the code which lacks any current or future libraries 
 
 <h1>Updates</h1>
 <h2>16/07/2022</h2>
