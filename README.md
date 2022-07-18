@@ -42,6 +42,7 @@ The motor code houses all motor functions and defenitions.
   <li><s>Create a motor library</s></li>
   <li>Create a USART library</li>
   <li>Create a millis library</li>
+  <li>Implement Variable Speed control</li>
   <li>Make better controls</li>
   <li>3D model a chassis of bot</li> 
 </ul>
