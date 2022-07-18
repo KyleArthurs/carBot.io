@@ -1,5 +1,5 @@
 # carBot.io
-An Arduino based bot that drives in the direction based on the input sent from the Serial Monitor, Of course I wrote it in C++ so you dont have to. The Bot connects to your Laptop, PC or phone using a bluetooth module that i could not include in the Circuit Diagram but can be seen in the video (red module)
+An Arduino based bot that drives in the direction based on the input sent from the Serial Monitor, Of course I wrote it in C/C++ so you dont have to. The Bot connects to your Laptop, PC or phone using a bluetooth module that i could not include in the Circuit Diagram but can be seen in the video (red module)
 
 <h1>Circuit Diagram</h1>
 
