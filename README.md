@@ -43,6 +43,8 @@ The motor code houses all motor functions and defenitions.
   <li>Create a USART library</li>
   <li>Create a millis library</li>
   <li>Implement Variable Speed control</li>
+  <li>Add Bluetooth Connection</li> 
   <li>Make better controls</li>
+  <li>Make updated Circuit Diagram</li> 
   <li>3D model a chassis of bot</li> 
 </ul>
