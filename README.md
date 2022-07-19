@@ -48,3 +48,5 @@ The motor code houses all motor functions and defenitions.
   <li>Make updated Circuit Diagram</li> 
   <li>3D model a chassis of bot</li> 
 </ul>
+
+<p>A detailed RoadMap can be found under the "projects" Tab</p>
