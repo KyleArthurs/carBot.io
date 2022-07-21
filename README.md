@@ -15,7 +15,7 @@ An Arduino based bot that drives in the direction based on the input sent from t
 <li>Wheels(2x)</li>
 <li>Breadboard</li>
 <li>Jumper Cables</li>
-<li>Bluetooth Module</li>
+<a href="https://ie.rs-online.com/web/p/bluetooth-modules/7985359"><li>Bluetooth Module</li></a>
 <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/ref=sr_1_31?keywords=arduino+car&qid=1657164220&sr=8-31"><li>Full Kit available here(Arduino not Included)</li></a>
 </ul>  
 
