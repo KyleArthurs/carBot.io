@@ -13,8 +13,9 @@ An Arduino based bot that drives in the direction based on the input sent from t
 <a href="https://www.ti.com/product/L293D"><li>L293D(Motor control chip)</li></a>
 <li>Bot chasis</li>
 <li>Wheels(2x)</li>
-<li>Breadboard</li>
-<li>Jumper Cables</li>
+<a href="https://ie.rs-online.com/web/p/raspberry-pi-hats-add-ons/2222162?cm_mmc=IE-PLA-DS3A-_-google-_-CSS_IE_EN_Raspberry_Pi_%26_Arduino_%26_Development_Tools_Whoop_HI+(2)-_-(IE:Whoop!)+Raspberry+Pi+HATs+%26+Add-ons-_-2222162&matchtype=&aud-827186183886:pla-374265978167&gclid=Cj0KCQjwz96WBhC8ARIsAATR250PCTgGbcgoJ2ihkFlSXFR7ycBskDEKfJhRxz1aEc6x6QFn9z2D_z4aAuBVEALw_wcB&gclsrc=aw.ds">
+  <li>Breadboard</li></a>
+<a href=""><li>Jumper Cables</li></a>
 <a href="https://ie.rs-online.com/web/p/bluetooth-modules/7985359"><li>Bluetooth Module</li></a>
 <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/ref=sr_1_31?keywords=arduino+car&qid=1657164220&sr=8-31"><li>Full Kit available here(Arduino not Included)</li></a>
 </ul>  
