@@ -2,9 +2,8 @@
 
 #include "motors.h"
 
-void motorSetup() {
-  //Make the contol pins outputs
-  DDRD |= ((1 << MOT_L_F) | (1 << MOT_L_B) | (1 << MOT_R_F) | (1 << MOT_R_B));
+void motorSetup() { 
+  DDRD |= ((1 << MOT_L_F) | (1 << MOT_L_B) | (1 << MOT_R_F) | (1 << MOT_R_B));  //Make the contol pins outputs
 }
 
 void botForward(void) {
