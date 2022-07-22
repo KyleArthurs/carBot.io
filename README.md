@@ -41,7 +41,7 @@ The motor code houses all motor functions and defenitions.
 <h1>Road Map</h1>
 <ul>
   <li><s>Create a motor library</s></li>
-  <li>Create a USART library</li>
+  <li><s>Create a USART library</s></li>
   <li>Create a millis library</li>
   <li>Implement Variable Speed control</li>
   <li>Add Bluetooth Connection</li> 
